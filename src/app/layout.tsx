@@ -5,7 +5,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: SITE_NAME,
+  title: "W" + SITE_NAME,
   description: "Dibuat dengan Next.js dan Tailwind CSS",
 };
 
