@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat+Brush&family=Fredoka:wght@300..700&display=swap');
+@import "tailwindcss";
+
+@theme {
+ --font-caveat: "Caveat Brush", cursive;
+  --font-fredoka: "Fredoka", sans-serif;
+  --font-kaushan: "Kaushan Script", cursive;
+}
+
+body {
+  background-color: #1e2939;
+  color: #fff;
+}
